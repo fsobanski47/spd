@@ -1,0 +1,3 @@
+/home/c/275420/spd_lab2/cmake-build-debug/CMakeFiles/spd_lab2.dir
+/home/c/275420/spd_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/c/275420/spd_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
